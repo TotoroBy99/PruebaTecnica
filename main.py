@@ -8,6 +8,8 @@ from mtcnn import MTCNN
 import numpy as np
 from facenet_pytorch import InceptionResnetV1
 
+# probando las caracteristicas de esta funcion
+
 class VentanaPrincipal(QMainWindow):
     def __init__(self):
         super().__init__()
